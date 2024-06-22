@@ -2,7 +2,7 @@ A complete end to end NLP project with deployment
 
 follow on @SameerHussain128 and linkedin - linkedin.com/in/mohdsameer28
 
-*Project Description:* Resume Classification for Job Category Prediction
+__Project Description:__ Resume Classification for Job Category Prediction
 Objective:
 The objective of this project is to develop a machine learning model that can automatically classify resumes into specific job categories based on their content. This classification is intended to assist in streamlining the recruitment process by quickly categorizing incoming resumes according to predefined job roles.
 
