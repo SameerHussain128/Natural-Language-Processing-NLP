@@ -1,5 +1,6 @@
 A complete end to end NLP project with deployment
-@sameerhussain128
+
+follow on @SameerHussain128 and linkedin - linkedin.com/in/mohdsameer28
 
 Project Description: Resume Classification for Job Category Prediction
 Objective:
