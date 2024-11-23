@@ -1,6 +1,8 @@
 # Natural-Language-Processing-NLP-
 NLP is a branch of artificial intelligence (AI) that enables computers to comprehend, generate &amp; manipulate human language. Helps computers communicate with humans in their own language &amp; scales other language-related tasks. Makes possible for computers to read text, hear speech, interpret it, measure sentiment &amp; determine which parts are important
 
+* In this repository there are projects on NLP and workshop on NLP
+
 # Exploring the World of Natural Language Processing (NLP) with Python
 
 Tokenization: Breaking down text into words and sentences, laying the groundwork for deeper analysis. I discovered how effective tokenization can enhance text processing and understanding.
