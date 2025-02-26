@@ -27,7 +27,7 @@ When we get the Ham mail
 ![Homepage Screenshot](screenshot/ham2.png)
 
 🤔 Why This Project?
-Spam emails and messages clutter inboxes, waste time, and pose security risks. This project aims to address these issues by providing an automated solution to detect and filter out spam efficiently. It ensures that important communications remain undisturbed while blocking malicious or irrelevant content.
+* Spam emails and messages clutter inboxes, waste time, and pose security risks. This project aims to address these issues by providing an automated solution to detect and filter out spam efficiently. It ensures that important communications remain undisturbed while blocking malicious or irrelevant content.
 
 💼 Description
 * The project is built using NLP techniques and machine learning algorithms to classify email messages into two categories: Spam or Ham. The pipeline includes:
